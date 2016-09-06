@@ -14,6 +14,7 @@
 		C808CB661D7E940400E51A4F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C808CB641D7E940400E51A4F /* LaunchScreen.storyboard */; };
 		C808CB711D7E940400E51A4F /* VideoMaskTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C808CB701D7E940400E51A4F /* VideoMaskTests.swift */; };
 		C808CB7C1D7E940400E51A4F /* VideoMaskUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C808CB7B1D7E940400E51A4F /* VideoMaskUITests.swift */; };
+		C808CB8A1D7E984E00E51A4F /* SampleVideo.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = C808CB891D7E97CB00E51A4F /* SampleVideo.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		C808CB771D7E940400E51A4F /* VideoMaskUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VideoMaskUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C808CB7B1D7E940400E51A4F /* VideoMaskUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoMaskUITests.swift; sourceTree = "<group>"; };
 		C808CB7D1D7E940400E51A4F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C808CB891D7E97CB00E51A4F /* SampleVideo.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = SampleVideo.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		C808CB4F1D7E940300E51A4F = {
 			isa = PBXGroup;
 			children = (
+				C808CB891D7E97CB00E51A4F /* SampleVideo.mp4 */,
 				C808CB5A1D7E940300E51A4F /* VideoMask */,
 				C808CB6F1D7E940400E51A4F /* VideoMaskTests */,
 				C808CB7A1D7E940400E51A4F /* VideoMaskUITests */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C808CB8A1D7E984E00E51A4F /* SampleVideo.mp4 in Resources */,
 				C808CB661D7E940400E51A4F /* LaunchScreen.storyboard in Resources */,
 				C808CB631D7E940400E51A4F /* Assets.xcassets in Resources */,
 				C808CB611D7E940400E51A4F /* Main.storyboard in Resources */,
